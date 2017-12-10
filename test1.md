@@ -1,5 +1,5 @@
 ---
-title:  "Welcome to Jekyll!"
+title:  "中文标题!"
 ---
 
 # test1 page
